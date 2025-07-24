@@ -1,2 +1,2 @@
 # practice-c
-Its my own first repository
+Its my own first repository. 
